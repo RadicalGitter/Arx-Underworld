@@ -9,6 +9,11 @@ tracked file publishable: no Ultima or Arx assets, extracted data or private pat
 beyond this workspace's own instructions; check the history before it goes public.
 Do not distribute Ultima music, soundfonts, ROMs, Arx game assets, or local builds.
 Keep owner-provided assets and extracted data in ignored `.work/`.
+The owner retired the glitchy local UW2_13 rendition on 2026-10-20: every former
+assignment now uses UW1 Armed (uw1_10). Keep the old catalog/import record for
+optional assets, but do not silently reintroduce it into default mappings.
+`music_update.py` performs guarded exploration-only retargets to already-installed
+arrangements, with backups, resumable journaling and ordinary uninstall recovery.
 Never replace maps, saves or engine binaries for this mod.
 Player-health music is explicitly authorized: append a player-only controller
 to the owner's existing player script, retaining reconstructable original bytes

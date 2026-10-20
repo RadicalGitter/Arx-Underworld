@@ -3,6 +3,18 @@
 Status: 0.2.0 offline-tested candidate. No game UI or live gameplay was observed.
 Installation is recorded separately in integration-results.
 
+2026-10-20 bunker music replacement: the owner reported repeated audible glitches
+in the local UW2_13 rendition. All default assignments now use UW1 Armed instead
+(39 enabled cues, 17 distinct pieces). The replacement's installed PCM WAV decodes
+successfully; this is a technical check, not a listening assessment. The prepared
+update retargets the single shared exploration AMB used by the bunker, approach
+and city story changes. Its key bytes, volume and scheduling remain identical;
+environmental AMBs, silent anchors, heartbeat and scripts are outside the update.
+All 57 offline tests pass, including multi-cue retargeting, edit refusal, process
+guard, interruption/resume and ordinary uninstall after an interrupted update.
+The live update is prepared; installation and audible playback are pending Arx
+being saved and closed. Private audio and update stages are not distributed.
+
 2026-10-19 teleport/retreat repair: the emitted-script harness reproduced a
 looping scripted pressure theme surviving a level change. Added regression
 coverage for transition cleanup, quiet-time expiry/refresh, retreat without

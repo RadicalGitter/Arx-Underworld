@@ -3,7 +3,7 @@
 An installable Arx Libertatis music kit using locally imported UW1/UW2 music,
 while retaining Arx's environmental sounds.
 
-**39 cues use 18 pieces, with a 46-row editable mapping.** Music is separated
+**39 cues use 17 pieces, with a 46-row editable mapping.** Music is separated
 from ambience and only one musical layer is selected at a time. Nearby hostile
 intent starts combat before damage is required. Six quiet seconds (ten with a
 raised weapon) end it. A reported engaged-enemy death followed by a clear local
@@ -85,6 +85,25 @@ when building. The table contains spoilers in its location/evidence columns. Cha
 to `0` to leave a cue entirely vanilla. Do not rename native cues casually. `combat.json` controls the 30% danger /
 40% recovery thresholds. The `role` and `priority` columns control routing. Generated combat/victory
 rows use music-only AMBs. Native `ambient_fight` stays heartbeat-only.
+
+UW1 Armed now covers every former UW2 Killorn Keep / Pits of Carnage assignment.
+The previous local rendition produced owner-reported glitches in the bunker.
+Its catalog/import entry remains available, but it has no default assignments.
+
+For an existing installation, `music_update.py` can retarget exploration cues
+to an arrangement already installed for another cue, without changing scripts
+or environmental tracks. Change all affected mapping rows first, then prepare
+and apply a private stage (close Arx before applying):
+
+```powershell
+python music_update.py prepare --game-dir "C:\Games\Arx Fatalis" --source uw2_13 --replacement uw1_10 --stage .work/bunker-music-update
+python music_update.py apply --game-dir "C:\Games\Arx Fatalis" --stage .work/bunker-music-update
+```
+
+The updater checks installed hashes, retains before-images and updates the
+ordinary uninstall journal. Rerun apply after interruption, or uninstall normally.
+It requires matching excerpt/rest arrangements and exploration-only cues; changes
+to combat, story or victory durations require a full rebuild.
 
 For a controlled build and preview of the install operation:
 

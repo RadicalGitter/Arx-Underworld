@@ -25,7 +25,7 @@ than the cheerful smithing stereotype a faction name could suggest.
 | Dwarven mines / foundry | UW2 Praecor Loth | Listener-described haunting music fits deserted industry better than a lively faction anthem. The mapping concerns the ruin, not dwarves as a people. |
 | Crypt progression | UW2 Prison Tower, Praecor Loth and Scintillus | Controlled changes from confinement to solemnity to arcane unease; retain every separate strange-noise layer. Existing cues, rather than guessed room labels, decide where they occur. |
 | Worm passage | UW2 Sewers | Sparse, unusually sustained notes leave room for environmental warning sounds. Replaces the initial, rejected choice of six-second UW1 Fleeing. |
-| Ylside territory / climax | UW2 Killorn Keep-family / UW1 Combat | Sparse approach contrasts with denser confrontation; use the game's existing reveal and final-encounter cues. This does not imply a connection between the goblin and Ylside factions. |
+| Ylside territory / climax | UW1 Armed / UW1 Combat | Armed supplies active tension before the denser confrontation. All uses of the shared bunker cue use Armed, including the approach and city story changes. The owner reported audio glitches in the previously used UW2_13 rendition; it is no longer assigned. |
 | Ordinary combat / player danger | UW2 Combat | Player-only controller chooses UW2 Combat or Dangerous Situation from health with 30%/40% hysteresis; the original heartbeat cue is preserved exactly. Nearby combat intent and a quiet-period rule control lifetime; a confirmed engaged death can qualify for UW1 Victory. See COMBAT.md. |
 | Authored discoveries and dramatic moments | Maps & Legends / Guardian's Trap | Existing camera and story cues only. Event function is known; specific emotional fit is less certain. |
 
@@ -34,6 +34,13 @@ See [listener research](VIBE-RESEARCH.md) and
 prove emotion, harmony, instrument identity or listening quality. No automated
 listening or video-transcript access is claimed. These are reasoned arrangements
 to audition, not a completed human listening evaluation.
+
+On 2026-10-20, UW1 Armed replaced every UW2_13 assignment following the
+owner's in-game report of repeated audio glitches. Its measured 11.51 melodic
+note-ons/second and median pitch 51 support a more active, lower-register
+texture; the hostile-territory fit remains a design inference. Volume, 30-second
+regional rests, environmental sounds and combat assignments are unchanged.
+This retires the problematic local rendition, not every recording of that piece.
 
 ## Quiet space is part of the score
 

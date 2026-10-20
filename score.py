@@ -614,6 +614,11 @@ def install(payload,game,dry_run=False):
 def uninstall(game):
     game=Path(game).resolve(); state=state_path(game)
     record=json.loads(state.read_text()); entries=record['entries']
+    if record.get('pending_music_update'):
+        import music_update
+        import router_update
+        router_update.require_closed()
+        record=music_update.recover(game); entries=record['entries']
     if record.get('pending_router_update'):
         import router_update
         router_update.require_closed()

@@ -1,7 +1,7 @@
 """Build a shareable kit. Owner game data and private music are never selected."""
 import argparse,csv,hashlib,pathlib,zipfile,json
 ROOT=pathlib.Path(__file__).resolve().parent
-FILES=['README.md','RELEASE-REPORT.md','LICENSE.txt','AGENTS.md','.gitignore','score.py','amb.py','combat.py','routing.py','combat.json','mix.json','package.py','mapping.csv','tracks.csv','import.csv','Install-Test-Mod.cmd','Install-Underworld-Mod.cmd','Uninstall-Mod.cmd']
+FILES=['README.md','RELEASE-REPORT.md','LICENSE.txt','AGENTS.md','.gitignore','score.py','amb.py','combat.py','routing.py','router_update.py','music_update.py','combat.json','mix.json','package.py','mapping.csv','tracks.csv','import.csv','Install-Test-Mod.cmd','Install-Underworld-Mod.cmd','Uninstall-Mod.cmd']
 def main():
     p=argparse.ArgumentParser();p.add_argument('--output',required=True,type=pathlib.Path);a=p.parse_args()
     chosen=[ROOT/n for n in FILES]
