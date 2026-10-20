@@ -48,6 +48,10 @@ your own rendered recordings, or an offline FM rendition from your own XMI files
 using an external libADLMIDI tool. The latter route was exercised with both games;
 it is **not an authentic Roland MT-32 recording**.
 
+To let a coding agent do the work, give it the prompt in
+[docs/AGENT-PROMPT.md](docs/AGENT-PROMPT.md): it looks for your own copies of the
+games first and falls back to a personal-use YouTube download only if you agree.
+
 After importing your library into `assets`, uninstall the test version, then:
 
 ```powershell

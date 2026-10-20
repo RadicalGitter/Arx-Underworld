@@ -5,6 +5,9 @@ soundtracks. Ownership of the games does not make the music public-domain.
 Keep imported WAVs, extracted files and game-ready builds private. Share the
 kit, mapping and original placeholders instead.
 
+A ready-made prompt for a coding agent that does all of this for you is in
+[AGENT-PROMPT.md](AGENT-PROMPT.md).
+
 ## Import rendered recordings
 
 `tracks.csv` identifies source track numbers independently of inconsistent album
