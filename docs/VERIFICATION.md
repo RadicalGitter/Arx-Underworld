@@ -12,8 +12,12 @@ and city story changes. Its key bytes, volume and scheduling remain identical;
 environmental AMBs, silent anchors, heartbeat and scripts are outside the update.
 All 57 offline tests pass, including multi-cue retargeting, edit refusal, process
 guard, interruption/resume and ordinary uninstall after an interrupted update.
-The live update is prepared; installation and audible playback are pending Arx
-being saved and closed. Private audio and update stages are not distributed.
+Installed after the owner saved and closed Arx: exactly one music AMB changed,
+all 206 installed-file hashes match the journal, and all 12 original before-image
+backups still verify. No installed AMB references UW2_13. The updater retained
+the prior AMB and journal under `.uwscore-state/music-updates/`; its private
+installation receipt is in `.work/bunker-music-update/`. Audible playback still
+needs the owner's audition. Private audio and update stages are not distributed.
 
 2026-10-19 teleport/retreat repair: the emitted-script harness reproduced a
 looping scripted pressure theme surviving a level change. Added regression
