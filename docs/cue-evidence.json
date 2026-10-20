@@ -1,0 +1,1572 @@
+{
+  "ambient_gob_jail_main": [
+    {
+      "kind": "zone",
+      "area": "level1",
+      "zone": "AMBIENCE_L1_Z1",
+      "native_ambiance": "ambient_gob_jail_main"
+    },
+    {
+      "kind": "zone",
+      "area": "level1",
+      "zone": "AMBIENCE_L1_Z2",
+      "native_ambiance": "ambient_gob_jail_main"
+    },
+    {
+      "kind": "zone",
+      "area": "level1",
+      "zone": "AMBIENCE_L1_Z3",
+      "native_ambiance": "ambient_gob_jail_main"
+    },
+    {
+      "kind": "zone",
+      "area": "level1",
+      "zone": "AMBIENCE_L1_Z4",
+      "native_ambiance": "ambient_gob_jail_main"
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/goblin_base/goblin_base_0038/goblin_base.asl",
+      "line": 122,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0033/camera.asl",
+      "line": 50,
+      "areas": [
+        "level1"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0126/camera.asl",
+      "line": 24,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0811/marker.asl",
+      "line": 11,
+      "areas": [
+        "level1"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0811/marker.asl",
+      "line": 20,
+      "areas": [
+        "level1"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0811/marker.asl",
+      "line": 32,
+      "areas": [
+        "level1"
+      ]
+    }
+  ],
+  "ambient_cave_greu": [
+    {
+      "kind": "zone",
+      "area": "level1",
+      "zone": "AMBIENCE_L1_Z5",
+      "native_ambiance": "ambient_cave_greu"
+    },
+    {
+      "kind": "zone",
+      "area": "level1",
+      "zone": "AMBIENCE_L1_Z6",
+      "native_ambiance": "ambient_cave_greu"
+    },
+    {
+      "kind": "zone",
+      "area": "level1",
+      "zone": "AMBIENCE_L1_Z7",
+      "native_ambiance": "ambient_cave_greu"
+    },
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "NEWPATH0010",
+      "native_ambiance": "ambient_cave_greu"
+    },
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "NEWPATH0011",
+      "native_ambiance": "ambient_cave_greu"
+    },
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "NEWPATH0012",
+      "native_ambiance": "ambient_cave_greu"
+    },
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "NEWPATH0013",
+      "native_ambiance": "ambient_cave_greu"
+    }
+  ],
+  "ambient_cave_frozen": [
+    {
+      "kind": "zone",
+      "area": "level1",
+      "zone": "AMBIENCE_L1_Z8",
+      "native_ambiance": "ambient_cave_frozen"
+    }
+  ],
+  "ambient_tavern": [
+    {
+      "kind": "zone",
+      "area": "level12",
+      "zone": "AMBIENCE_L0_Z2",
+      "native_ambiance": "ambient_tavern"
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0549/marker.asl",
+      "line": 15,
+      "areas": [
+        "level12"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0549/marker.asl",
+      "line": 25,
+      "areas": [
+        "level12"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0549/marker.asl",
+      "line": 61,
+      "areas": [
+        "level12"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0831/marker.asl",
+      "line": 55,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0831/marker.asl",
+      "line": 91,
+      "areas": []
+    }
+  ],
+  "ambient_outpost": [
+    {
+      "kind": "zone",
+      "area": "level12",
+      "zone": "AMBIENCE_L0_Z6",
+      "native_ambiance": "ambient_outpost"
+    },
+    {
+      "kind": "zone",
+      "area": "level12",
+      "zone": "AMBIENCE_L0_Z7",
+      "native_ambiance": "ambient_outpost"
+    },
+    {
+      "kind": "zone",
+      "area": "level12",
+      "zone": "AMBIENCE_L0_Z8",
+      "native_ambiance": "ambient_outpost"
+    }
+  ],
+  "ambient_rebels_cool": [
+    {
+      "kind": "zone",
+      "area": "level16",
+      "zone": "GUARDING_ALIA",
+      "native_ambiance": "ambient_rebels_cool"
+    },
+    {
+      "kind": "zone",
+      "area": "level16",
+      "zone": "AMBIENT_REBELS_COOL2",
+      "native_ambiance": "ambient_rebels_cool"
+    },
+    {
+      "kind": "zone",
+      "area": "level16",
+      "zone": "AMBIENT_REBELS_COOL3",
+      "native_ambiance": "ambient_rebels_cool"
+    },
+    {
+      "kind": "zone",
+      "area": "level16",
+      "zone": "AMBIENT_REBELS_COOL4",
+      "native_ambiance": "ambient_rebels_cool"
+    },
+    {
+      "kind": "zone",
+      "area": "level3",
+      "zone": "AMBIENT_REBELS_COOL.",
+      "native_ambiance": "ambient_rebels_cool."
+    },
+    {
+      "kind": "zone",
+      "area": "level3",
+      "zone": "AMBIENT_REBELS_COOL",
+      "native_ambiance": "ambient_rebels_cool"
+    },
+    {
+      "kind": "zone",
+      "area": "level3",
+      "zone": "AMBIENT_REBELS_COOL3",
+      "native_ambiance": "ambient_rebels_cool"
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0111/human_base.asl",
+      "line": 480,
+      "areas": [
+        "level16"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0188/marker.asl",
+      "line": 2,
+      "areas": [
+        "level16"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0188/marker.asl",
+      "line": 36,
+      "areas": [
+        "level16"
+      ]
+    }
+  ],
+  "ambient_rebels_intense": [
+    {
+      "kind": "zone",
+      "area": "level16",
+      "zone": "AMBIENT_REBELS_INTENSE",
+      "native_ambiance": "ambient_rebels_intense"
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0111/copie de human_base.asl",
+      "line": 48,
+      "areas": [
+        "level16"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0111/human_base.asl",
+      "line": 125,
+      "areas": [
+        "level16"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0188/marker.asl",
+      "line": 14,
+      "areas": [
+        "level16"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0188/marker.asl",
+      "line": 22,
+      "areas": [
+        "level16"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0188/marker.asl",
+      "line": 30,
+      "areas": [
+        "level16"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0188/marker.asl",
+      "line": 38,
+      "areas": [
+        "level16"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0188/marker.asl",
+      "line": 45,
+      "areas": [
+        "level16"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0188/marker.asl",
+      "line": 59,
+      "areas": [
+        "level16"
+      ]
+    }
+  ],
+  "ambient_gob_castle": [
+    {
+      "kind": "zone",
+      "area": "level2",
+      "zone": "FIRETORCH",
+      "native_ambiance": "ambient_gob_castle"
+    }
+  ],
+  "ambient_troll": [
+    {
+      "kind": "zone",
+      "area": "level2",
+      "zone": "NO_ENTER",
+      "native_ambiance": "ambient_troll."
+    }
+  ],
+  "ambient_cave_a": [
+    {
+      "kind": "zone",
+      "area": "level2",
+      "zone": "NEWPATH0010",
+      "native_ambiance": "ambient_cave_a"
+    },
+    {
+      "kind": "zone",
+      "area": "level2",
+      "zone": "NEWPATH0009",
+      "native_ambiance": "ambient_cave_a"
+    },
+    {
+      "kind": "zone",
+      "area": "level2",
+      "zone": "NPCLIMIT_0002",
+      "native_ambiance": "ambient_cave_a"
+    },
+    {
+      "kind": "zone",
+      "area": "level6",
+      "zone": "AMBIENT_CAVE_A1",
+      "native_ambiance": "ambient_cave_a"
+    },
+    {
+      "kind": "zone",
+      "area": "level6",
+      "zone": "AMBIENT_CAVE_A2",
+      "native_ambiance": "ambient_cave_a"
+    },
+    {
+      "kind": "zone",
+      "area": "level6",
+      "zone": "AMBIENT_CAVE_A4",
+      "native_ambiance": "ambient_cave_a"
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/barrel/barrel_0020/barrel.asl",
+      "line": 9,
+      "areas": [
+        "level13"
+      ]
+    }
+  ],
+  "ambient_bunker": [
+    {
+      "kind": "zone",
+      "area": "level3",
+      "zone": "AMBIENT_BUNKER",
+      "native_ambiance": "ambient_bunker"
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0106/light_door.asl",
+      "line": 32,
+      "areas": [
+        "level11"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0106/light_door.asl",
+      "line": 36,
+      "areas": [
+        "level11"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0106/light_door.asl",
+      "line": 43,
+      "areas": [
+        "level11"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/items/quest_item/koltk_powder/koltk_powder_0003/koltk_powder.asl",
+      "line": 20,
+      "areas": [
+        "level0"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/items/quest_item/koltk_powder/koltk_powder_0003/koltk_powder.asl",
+      "line": 35,
+      "areas": [
+        "level0"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0224/marker.asl",
+      "line": 7,
+      "areas": [
+        "level4"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0338/marker.asl",
+      "line": 3,
+      "areas": [
+        "level0"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0338/marker.asl",
+      "line": 8,
+      "areas": [
+        "level0"
+      ]
+    }
+  ],
+  "ambient_bunker_akbaa": [
+    {
+      "kind": "zone",
+      "area": "level4",
+      "zone": "ISERBIUS_FINAL",
+      "native_ambiance": "ambient_bunker_AKBAA"
+    }
+  ],
+  "ambient_snake_castle": [
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "NEWPATH0001",
+      "native_ambiance": "ambient_snake_castle"
+    },
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "ENTER",
+      "native_ambiance": "ambient_snake_castle"
+    },
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "GETOUT",
+      "native_ambiance": "ambient_snake_castle"
+    },
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "NEWPATH0005",
+      "native_ambiance": "ambient_snake_castle"
+    },
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "NEWPATH0006",
+      "native_ambiance": "ambient_snake_castle"
+    },
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "NEWPATH0007",
+      "native_ambiance": "ambient_snake_castle"
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0072/camera.asl",
+      "line": 5,
+      "areas": [
+        "level5"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0084/camera.asl",
+      "line": 59,
+      "areas": [
+        "level5"
+      ]
+    }
+  ],
+  "ambient_snake_illusion": [
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "MAPMARKER",
+      "native_ambiance": "ambient_snake_illusion"
+    },
+    {
+      "kind": "zone",
+      "area": "level5",
+      "zone": "NEWPATH0009",
+      "native_ambiance": "ambient_snake_illusion"
+    }
+  ],
+  "ambient_cave_worm": [
+    {
+      "kind": "zone",
+      "area": "level6",
+      "zone": "AMBIENT_CAVE_WORM",
+      "native_ambiance": "ambient_cave_worm"
+    },
+    {
+      "kind": "zone",
+      "area": "level6",
+      "zone": "AMBIENT_CAVE_WORM2",
+      "native_ambiance": "ambient_cave_worm"
+    }
+  ],
+  "ambient_cave_lava": [
+    {
+      "kind": "zone",
+      "area": "level7",
+      "zone": "NEWPATH0001",
+      "native_ambiance": "ambient_cave_lava"
+    },
+    {
+      "kind": "zone",
+      "area": "level7",
+      "zone": "NEWPATH0002",
+      "native_ambiance": "ambient_cave_lava"
+    },
+    {
+      "kind": "zone",
+      "area": "level7",
+      "zone": "NEWPATH0003",
+      "native_ambiance": "ambient_cave_lava"
+    },
+    {
+      "kind": "zone",
+      "area": "level7",
+      "zone": "NEWPATH0004",
+      "native_ambiance": "ambient_cave_lava"
+    },
+    {
+      "kind": "zone",
+      "area": "level7",
+      "zone": "NEWPATH0008",
+      "native_ambiance": "Ambient_cave_lava"
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0027/camera.asl",
+      "line": 34,
+      "areas": [
+        "level8"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0027/camera.asl",
+      "line": 73,
+      "areas": [
+        "level8"
+      ]
+    }
+  ],
+  "ambient_dwarf": [
+    {
+      "kind": "zone",
+      "area": "level7",
+      "zone": "NEWPATH0005",
+      "native_ambiance": "Ambient_dwarf"
+    },
+    {
+      "kind": "zone",
+      "area": "level7",
+      "zone": "NEWPATH0006",
+      "native_ambiance": "Ambient_dwarf"
+    },
+    {
+      "kind": "zone",
+      "area": "level7",
+      "zone": "NEWPATH0007",
+      "native_ambiance": "Ambient_dwarf"
+    }
+  ],
+  "ambient_fight": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/player/g.asl",
+      "line": 2,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/player/g.asl",
+      "line": 324,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/player/g.asl",
+      "line": 348,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/player/g.asl",
+      "line": 377,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/player/player.asl",
+      "line": 2,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/player/player.asl",
+      "line": 335,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/player/player.asl",
+      "line": 359,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/player/player.asl",
+      "line": 388,
+      "areas": []
+    }
+  ],
+  "ambient_noden": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/telescope/telescope.asl",
+      "line": 21,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/telescope/telescope.asl",
+      "line": 27,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/telescope/telescope.asl",
+      "line": 36,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0106/light_door.asl",
+      "line": 25,
+      "areas": [
+        "level11"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0106/light_door.asl",
+      "line": 65,
+      "areas": [
+        "level11"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/items/quest_item/koltk_powder/koltk_powder_0003/koltk_powder.asl",
+      "line": 18,
+      "areas": [
+        "level0"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/items/quest_item/koltk_powder/koltk_powder_0003/koltk_powder.asl",
+      "line": 32,
+      "areas": [
+        "level0"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/sylib/sylib.asl",
+      "line": 31,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/sylib/sylib.asl",
+      "line": 59,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0083/camera.asl",
+      "line": 36,
+      "areas": [
+        "level8"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0083/camera.asl",
+      "line": 46,
+      "areas": [
+        "level8"
+      ]
+    }
+  ],
+  "ambient_crypt_e": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/telescope/telescope.asl",
+      "line": 42,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/porticullis/porticullis_0030/porticullis.asl",
+      "line": 16,
+      "areas": [
+        "level23"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/items/quest_item/koltk_powder/koltk_powder_0003/koltk_powder.asl",
+      "line": 17,
+      "areas": [
+        "level0"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/items/quest_item/koltk_powder/koltk_powder_0003/koltk_powder.asl",
+      "line": 33,
+      "areas": [
+        "level0"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0249/marker.asl",
+      "line": 13,
+      "areas": [
+        "level17"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0338/marker.asl",
+      "line": 4,
+      "areas": [
+        "level0"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0338/marker.asl",
+      "line": 9,
+      "areas": [
+        "level0"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0338/marker.asl",
+      "line": 12,
+      "areas": [
+        "level0"
+      ]
+    }
+  ],
+  "ambient_gob_ruin": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/barrel/barrel_0002/barrel.asl",
+      "line": 12,
+      "areas": [
+        "level15"
+      ]
+    }
+  ],
+  "ambient_intro": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/intro_draw/intro_draw_0001/intro_draw.asl",
+      "line": 50,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0026/human_base.asl",
+      "line": 52,
+      "areas": [
+        "level10"
+      ]
+    }
+  ],
+  "ambient_demo": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0001/light_door.asl",
+      "line": 8,
+      "areas": []
+    }
+  ],
+  "ambient_town": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0106/light_door.asl",
+      "line": 31,
+      "areas": [
+        "level11"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0106/light_door.asl",
+      "line": 37,
+      "areas": [
+        "level11"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0106/light_door.asl",
+      "line": 42,
+      "areas": [
+        "level11"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0106/light_door.asl",
+      "line": 47,
+      "areas": [
+        "level11"
+      ]
+    }
+  ],
+  "ambient_temple_akbaa": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0134/light_door.asl",
+      "line": 27,
+      "areas": [
+        "level14"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/light_door/light_door_0134/light_door.asl",
+      "line": 40,
+      "areas": [
+        "level14"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/porticullis/porticullis_0083/porticullis.asl",
+      "line": 21,
+      "areas": [
+        "level14"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0836/marker.asl",
+      "line": 20,
+      "areas": [
+        "level14"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0836/marker.asl",
+      "line": 32,
+      "areas": [
+        "level14"
+      ]
+    }
+  ],
+  "ambient_crypt_c": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/porticullis/porticullis_0007/porticullis.asl",
+      "line": 11,
+      "areas": [
+        "level21"
+      ]
+    }
+  ],
+  "ambient_crypt_lich": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/porticullis/porticullis_0010/porticullis.asl",
+      "line": 13,
+      "areas": [
+        "level23"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/sarcophagebig/sarcophagebig_0004/sarcophagebig.asl",
+      "line": 29,
+      "areas": [
+        "level23"
+      ]
+    }
+  ],
+  "ambient_crypt_b": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/porticullis/porticullis_0039/porticullis.asl",
+      "line": 4,
+      "areas": [
+        "level19"
+      ]
+    }
+  ],
+  "ambient_cave_b": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/porticullis/porticullis_0098/porticullis.asl",
+      "line": 12,
+      "areas": [
+        "level3"
+      ]
+    }
+  ],
+  "ambient_gob_jail_stress": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/fix_inter/untwisted_portcullis_2/untwisted_portcullis_2_0003/untwisted_portcullis_2.asl",
+      "line": 60,
+      "areas": [
+        "level1"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/goblin_base/goblin_base_0006/goblin_base.asl",
+      "line": 237,
+      "areas": [
+        "level1"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/goblin_base/goblin_base_0006/goblin_base.asl",
+      "line": 243,
+      "areas": [
+        "level1"
+      ]
+    }
+  ],
+  "ambient_fight_music": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/akbaa_phase2/akbaa_phase2.asl",
+      "line": 831,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/dragon_ice/dragon_ice.asl",
+      "line": 105,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/dragon_ice/dragon_ice.asl",
+      "line": 313,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/dragon_ice/dragon_ice.asl",
+      "line": 432,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/dragon_ice/dragon_ice.asl",
+      "line": 466,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/worm_big/worm_big.asl",
+      "line": 153,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/worm_big/worm_big.asl",
+      "line": 161,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/worm_big/worm_big.asl",
+      "line": 236,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/akbaa_phase1/akbaa_phase1_0001/akbaa_phase1.asl",
+      "line": 126,
+      "areas": [
+        "level4"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/akbaa_phase2/akbaa_phase2_0001/akbaa_phase2.asl",
+      "line": 56,
+      "areas": [
+        "level4"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/goblin_base/goblin_base_0047/goblin_base.asl",
+      "line": 46,
+      "areas": [
+        "level15"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/goblin_base/goblin_base_0047/goblin_base.asl",
+      "line": 104,
+      "areas": [
+        "level15"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0169/human_base.asl",
+      "line": 17,
+      "areas": [
+        "level22"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0169/human_base.asl",
+      "line": 31,
+      "areas": [
+        "level22"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/snake_woman_base/snake_woman_base_0015/snake_woman_base.asl",
+      "line": 16,
+      "areas": [
+        "level5"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/undead_liche/undead_liche_0006/undead_liche.asl",
+      "line": 39,
+      "areas": [
+        "level21"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/undead_liche/undead_liche_0006/undead_liche.asl",
+      "line": 44,
+      "areas": [
+        "level21"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0409/marker.asl",
+      "line": 33,
+      "areas": [
+        "level5"
+      ]
+    }
+  ],
+  "ambient_kill_fight": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/worm_big/worm_big.asl",
+      "line": 152,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/worm_big/worm_big.asl",
+      "line": 154,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/worm_big/worm_big.asl",
+      "line": 159,
+      "areas": []
+    }
+  ],
+  "ambient_important_place": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/akbaa_phase2/akbaa_phase2_0001/akbaa_phase2.asl",
+      "line": 55,
+      "areas": [
+        "level4"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/akbaa_phase2/akbaa_phase2_0001/akbaa_phase2.asl",
+      "line": 68,
+      "areas": [
+        "level4"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/akbaa_phase2/akbaa_phase2_0001/akbaa_phase2.asl",
+      "line": 111,
+      "areas": [
+        "level4"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/akbaa_phase2/akbaa_phase2_0001/akbaa_phase2.asl",
+      "line": 120,
+      "areas": [
+        "level4"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0149/human_base.asl",
+      "line": 31,
+      "areas": [
+        "level20"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0072/camera.asl",
+      "line": 4,
+      "areas": [
+        "level5"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0076/camera.asl",
+      "line": 44,
+      "areas": [
+        "level4"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0076/camera.asl",
+      "line": 108,
+      "areas": [
+        "level4"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0083/camera.asl",
+      "line": 14,
+      "areas": [
+        "level8"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0083/camera.asl",
+      "line": 35,
+      "areas": [
+        "level8"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0084/camera.asl",
+      "line": 58,
+      "areas": [
+        "level5"
+      ]
+    }
+  ],
+  "ambient_blackthing": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0001/black_thing.asl",
+      "line": 99,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0001/black_thing.asl",
+      "line": 120,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0001/black_thing.asl",
+      "line": 177,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0001/black_thing.asl",
+      "line": 199,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0001/black_thing.asl",
+      "line": 219,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0002/black_thing.asl",
+      "line": 80,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0003/black_thing.asl",
+      "line": 97,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0003/black_thing.asl",
+      "line": 108,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0003/black_thing.asl",
+      "line": 152,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0003/black_thing.asl",
+      "line": 206,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0003/black_thing.asl",
+      "line": 299,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/black_thing/black_thing_0003/black_thing.asl",
+      "line": 310,
+      "areas": [
+        "level7"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0008/camera.asl",
+      "line": 14,
+      "areas": [
+        "level7"
+      ]
+    }
+  ],
+  "ambient_intro_a": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0026/human_base.asl",
+      "line": 63,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/ratman_base/ratman_base_0015/ratman_base.asl",
+      "line": 55,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0049/camera.asl",
+      "line": 56,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0049/camera.asl",
+      "line": 61,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0049/camera.asl",
+      "line": 72,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0049/camera.asl",
+      "line": 78,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0049/camera.asl",
+      "line": 85,
+      "areas": [
+        "level10"
+      ]
+    }
+  ],
+  "ambient_intro_b": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0026/human_base.asl",
+      "line": 64,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/ratman_base/ratman_base_0015/ratman_base.asl",
+      "line": 56,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0049/camera.asl",
+      "line": 33,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0049/camera.asl",
+      "line": 62,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0049/camera.asl",
+      "line": 73,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0049/camera.asl",
+      "line": 79,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0049/camera.asl",
+      "line": 86,
+      "areas": [
+        "level10"
+      ]
+    }
+  ],
+  "ambient_dramatic": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0120/human_base.asl",
+      "line": 43,
+      "areas": [
+        "level8"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0120/human_base.asl",
+      "line": 75,
+      "areas": [
+        "level8"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0122/human_base.asl",
+      "line": 83,
+      "areas": [
+        "level8"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/npc/human_base/human_base_0122/human_base.asl",
+      "line": 92,
+      "areas": [
+        "level8"
+      ]
+    }
+  ],
+  "ambient_gob_intro": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0033/camera.asl",
+      "line": 49,
+      "areas": [
+        "level1"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0035/camera.asl",
+      "line": 49,
+      "areas": [
+        "level1"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0035/camera.asl",
+      "line": 74,
+      "areas": [
+        "level1"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0049/camera.asl",
+      "line": 26,
+      "areas": [
+        "level10"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0126/camera.asl",
+      "line": 23,
+      "areas": []
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0131/camera.asl",
+      "line": 19,
+      "areas": [
+        "level1"
+      ]
+    },
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/camera/camera_0131/camera.asl",
+      "line": 48,
+      "areas": [
+        "level1"
+      ]
+    }
+  ],
+  "ambient_crypt_f": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0253/marker.asl",
+      "line": 2,
+      "areas": [
+        "level22"
+      ]
+    }
+  ],
+  "ambient_temple_akbaa_up": [
+    {
+      "kind": "script",
+      "path": "graph/obj3d/interactive/system/marker/marker_0481/marker.asl",
+      "line": 45,
+      "areas": [
+        "level14"
+      ]
+    }
+  ]
+}

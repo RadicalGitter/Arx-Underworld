@@ -1,0 +1,1251 @@
+{
+  "uw1_01": {
+    "duration_seconds": 127.88,
+    "note_count": 1137,
+    "melodic_onsets_per_second": 8.89,
+    "median_note_seconds": 0.142,
+    "pitch_median": 64,
+    "pitch_range": [
+      32,
+      97
+    ],
+    "median_onset_gap_seconds": 0.142,
+    "programs": [
+      [
+        1,
+        48
+      ],
+      [
+        2,
+        86
+      ],
+      [
+        2,
+        93
+      ],
+      [
+        3,
+        122
+      ],
+      [
+        4,
+        51
+      ],
+      [
+        5,
+        90
+      ],
+      [
+        6,
+        73
+      ],
+      [
+        7,
+        107
+      ],
+      [
+        7,
+        112
+      ],
+      [
+        8,
+        117
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      540540,
+      540542,
+      571428
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw1_02": {
+    "duration_seconds": 115.38,
+    "note_count": 411,
+    "melodic_onsets_per_second": 3.56,
+    "median_note_seconds": 0.183,
+    "pitch_median": 46,
+    "pitch_range": [
+      33,
+      96
+    ],
+    "median_onset_gap_seconds": 0.275,
+    "programs": [
+      [
+        1,
+        117
+      ],
+      [
+        2,
+        48
+      ],
+      [
+        3,
+        48
+      ],
+      [
+        4,
+        56
+      ],
+      [
+        5,
+        36
+      ],
+      [
+        6,
+        43
+      ],
+      [
+        7,
+        32
+      ],
+      [
+        8,
+        121
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      1088929
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw1_03": {
+    "duration_seconds": 123.02,
+    "note_count": 1045,
+    "melodic_onsets_per_second": 8.49,
+    "median_note_seconds": 0.167,
+    "pitch_median": 63,
+    "pitch_range": [
+      24,
+      83
+    ],
+    "median_onset_gap_seconds": 0.133,
+    "programs": [
+      [
+        1,
+        38
+      ],
+      [
+        2,
+        93
+      ],
+      [
+        3,
+        72
+      ],
+      [
+        4,
+        109
+      ],
+      [
+        5,
+        33
+      ],
+      [
+        6,
+        48
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      788436
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw1_04": {
+    "duration_seconds": 129.83,
+    "note_count": 643,
+    "melodic_onsets_per_second": 4.95,
+    "median_note_seconds": 0.5,
+    "pitch_median": 56,
+    "pitch_range": [
+      34,
+      82
+    ],
+    "median_onset_gap_seconds": 0.233,
+    "programs": [
+      [
+        1,
+        48
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        93
+      ],
+      [
+        4,
+        58
+      ],
+      [
+        5,
+        48
+      ],
+      [
+        6,
+        112
+      ],
+      [
+        7,
+        25
+      ],
+      [
+        8,
+        36
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      705882
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw1_05": {
+    "duration_seconds": 37.16,
+    "note_count": 663,
+    "melodic_onsets_per_second": 17.84,
+    "median_note_seconds": 0.05,
+    "pitch_median": 53,
+    "pitch_range": [
+      36,
+      89
+    ],
+    "median_onset_gap_seconds": 0.125,
+    "programs": [
+      [
+        1,
+        48
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        92
+      ],
+      [
+        4,
+        122
+      ],
+      [
+        5,
+        48
+      ],
+      [
+        6,
+        112
+      ],
+      [
+        7,
+        117
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      387096
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw1_06": {
+    "duration_seconds": 32.02,
+    "note_count": 499,
+    "melodic_onsets_per_second": 15.58,
+    "median_note_seconds": 0.067,
+    "pitch_median": 57,
+    "pitch_range": [
+      36,
+      88
+    ],
+    "median_onset_gap_seconds": 0.1,
+    "programs": [
+      [
+        1,
+        25
+      ],
+      [
+        1,
+        49
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        2,
+        38
+      ],
+      [
+        2,
+        48
+      ],
+      [
+        3,
+        34
+      ],
+      [
+        3,
+        36
+      ],
+      [
+        3,
+        127
+      ],
+      [
+        4,
+        51
+      ],
+      [
+        5,
+        58
+      ],
+      [
+        6,
+        112
+      ],
+      [
+        8,
+        48
+      ],
+      [
+        8,
+        122
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      400000
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw1_07": {
+    "duration_seconds": 26.66,
+    "note_count": 397,
+    "melodic_onsets_per_second": 14.89,
+    "median_note_seconds": 0.083,
+    "pitch_median": 61,
+    "pitch_range": [
+      36,
+      78
+    ],
+    "median_onset_gap_seconds": 0.108,
+    "programs": [
+      [
+        1,
+        112
+      ],
+      [
+        2,
+        48
+      ],
+      [
+        3,
+        122
+      ],
+      [
+        4,
+        93
+      ],
+      [
+        5,
+        25
+      ],
+      [
+        6,
+        117
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      416666
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw1_10": {
+    "duration_seconds": 45.6,
+    "note_count": 525,
+    "melodic_onsets_per_second": 11.51,
+    "median_note_seconds": 0.125,
+    "pitch_median": 51,
+    "pitch_range": [
+      36,
+      85
+    ],
+    "median_onset_gap_seconds": 0.15,
+    "programs": [
+      [
+        1,
+        93
+      ],
+      [
+        2,
+        48
+      ],
+      [
+        2,
+        84
+      ],
+      [
+        3,
+        83
+      ],
+      [
+        3,
+        122
+      ],
+      [
+        3,
+        127
+      ],
+      [
+        4,
+        38
+      ],
+      [
+        4,
+        85
+      ],
+      [
+        5,
+        48
+      ],
+      [
+        5,
+        107
+      ],
+      [
+        6,
+        112
+      ],
+      [
+        7,
+        84
+      ],
+      [
+        7,
+        117
+      ],
+      [
+        8,
+        74
+      ],
+      [
+        8,
+        122
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      600000,
+      600000
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw1_11": {
+    "duration_seconds": 8.0,
+    "note_count": 40,
+    "melodic_onsets_per_second": 5.0,
+    "median_note_seconds": 0.579,
+    "pitch_median": 59.0,
+    "pitch_range": [
+      41,
+      84
+    ],
+    "median_onset_gap_seconds": 0.25,
+    "programs": [
+      [
+        1,
+        48
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        93
+      ],
+      [
+        4,
+        112
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      500000
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw1_12": {
+    "duration_seconds": 32.27,
+    "note_count": 192,
+    "melodic_onsets_per_second": 5.95,
+    "median_note_seconds": 0.642,
+    "pitch_median": 58.0,
+    "pitch_range": [
+      36,
+      89
+    ],
+    "median_onset_gap_seconds": 0.342,
+    "programs": [
+      [
+        1,
+        58
+      ],
+      [
+        2,
+        93
+      ],
+      [
+        3,
+        84
+      ],
+      [
+        4,
+        48
+      ],
+      [
+        5,
+        48
+      ],
+      [
+        6,
+        112
+      ],
+      [
+        7,
+        117
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      674157
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw1_13": {
+    "duration_seconds": 5.72,
+    "note_count": 90,
+    "melodic_onsets_per_second": 15.74,
+    "median_note_seconds": 0.142,
+    "pitch_median": 74.5,
+    "pitch_range": [
+      29,
+      88
+    ],
+    "median_onset_gap_seconds": 0.025,
+    "programs": [
+      [
+        1,
+        25
+      ],
+      [
+        2,
+        117
+      ],
+      [
+        3,
+        122
+      ],
+      [
+        4,
+        48
+      ],
+      [
+        5,
+        48
+      ],
+      [
+        6,
+        112
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      480000
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw1_15": {
+    "duration_seconds": 64.0,
+    "note_count": 334,
+    "melodic_onsets_per_second": 5.22,
+    "median_note_seconds": 0.208,
+    "pitch_median": 60.0,
+    "pitch_range": [
+      29,
+      89
+    ],
+    "median_onset_gap_seconds": 0.25,
+    "programs": [
+      [
+        1,
+        93
+      ],
+      [
+        2,
+        48
+      ],
+      [
+        3,
+        32
+      ],
+      [
+        4,
+        36
+      ],
+      [
+        5,
+        58
+      ],
+      [
+        6,
+        112
+      ],
+      [
+        7,
+        23
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      1000000
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_01": {
+    "duration_seconds": 169.69,
+    "note_count": 1061,
+    "melodic_onsets_per_second": 6.25,
+    "median_note_seconds": 0.45,
+    "pitch_median": 67,
+    "pitch_range": [
+      24,
+      91
+    ],
+    "median_onset_gap_seconds": 0.308,
+    "programs": [
+      [
+        1,
+        24
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        53
+      ],
+      [
+        4,
+        55
+      ],
+      [
+        5,
+        49
+      ],
+      [
+        6,
+        49
+      ],
+      [
+        7,
+        51
+      ],
+      [
+        8,
+        92
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      606060
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_02": {
+    "duration_seconds": 18.85,
+    "note_count": 264,
+    "melodic_onsets_per_second": 14.01,
+    "median_note_seconds": 0.208,
+    "pitch_median": 65.0,
+    "pitch_range": [
+      34,
+      94
+    ],
+    "median_onset_gap_seconds": 0.208,
+    "programs": [
+      [
+        1,
+        24
+      ],
+      [
+        2,
+        89
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        49
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      428571
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_03": {
+    "duration_seconds": 63.42,
+    "note_count": 479,
+    "melodic_onsets_per_second": 7.55,
+    "median_note_seconds": 0.208,
+    "pitch_median": 58,
+    "pitch_range": [
+      25,
+      91
+    ],
+    "median_onset_gap_seconds": 0.217,
+    "programs": [
+      [
+        1,
+        24
+      ],
+      [
+        2,
+        89
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        49
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      428571
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_04": {
+    "duration_seconds": 27.42,
+    "note_count": 428,
+    "melodic_onsets_per_second": 15.61,
+    "median_note_seconds": 0.208,
+    "pitch_median": 67.0,
+    "pitch_range": [
+      26,
+      84
+    ],
+    "median_onset_gap_seconds": 0.208,
+    "programs": [
+      [
+        1,
+        24
+      ],
+      [
+        2,
+        89
+      ],
+      [
+        3,
+        16
+      ],
+      [
+        4,
+        49
+      ],
+      [
+        5,
+        97
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      428571
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_05": {
+    "duration_seconds": 59.99,
+    "note_count": 443,
+    "melodic_onsets_per_second": 7.38,
+    "median_note_seconds": 0.1,
+    "pitch_median": 68,
+    "pitch_range": [
+      31,
+      83
+    ],
+    "median_onset_gap_seconds": 0.108,
+    "programs": [
+      [
+        1,
+        38
+      ],
+      [
+        2,
+        104
+      ],
+      [
+        3,
+        103
+      ],
+      [
+        4,
+        72
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      428571
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_06": {
+    "duration_seconds": 3.99,
+    "note_count": 32,
+    "melodic_onsets_per_second": 8.02,
+    "median_note_seconds": 0.167,
+    "pitch_median": 73.0,
+    "pitch_range": [
+      29,
+      82
+    ],
+    "median_onset_gap_seconds": 0.167,
+    "programs": [
+      [
+        1,
+        24
+      ],
+      [
+        2,
+        88
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      666666
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_07": {
+    "duration_seconds": 47.99,
+    "note_count": 140,
+    "melodic_onsets_per_second": 2.92,
+    "median_note_seconds": 1.792,
+    "pitch_median": 67.0,
+    "pitch_range": [
+      41,
+      84
+    ],
+    "median_onset_gap_seconds": 0.6,
+    "programs": [
+      [
+        1,
+        49
+      ],
+      [
+        2,
+        72
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      600000
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_10": {
+    "duration_seconds": 106.28,
+    "note_count": 1934,
+    "melodic_onsets_per_second": 18.2,
+    "median_note_seconds": 0.1,
+    "pitch_median": 77.0,
+    "pitch_range": [
+      24,
+      94
+    ],
+    "median_onset_gap_seconds": 0.108,
+    "programs": [
+      [
+        1,
+        51
+      ],
+      [
+        2,
+        57
+      ],
+      [
+        3,
+        24
+      ],
+      [
+        4,
+        77
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      428571
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_11": {
+    "duration_seconds": 131.99,
+    "note_count": 763,
+    "melodic_onsets_per_second": 5.78,
+    "median_note_seconds": 0.25,
+    "pitch_median": 66,
+    "pitch_range": [
+      43,
+      96
+    ],
+    "median_onset_gap_seconds": 0.25,
+    "programs": [
+      [
+        1,
+        59
+      ],
+      [
+        2,
+        13
+      ],
+      [
+        3,
+        52
+      ],
+      [
+        4,
+        32
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      500000
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_12": {
+    "duration_seconds": 123.23,
+    "note_count": 379,
+    "melodic_onsets_per_second": 3.08,
+    "median_note_seconds": 0.533,
+    "pitch_median": 63,
+    "pitch_range": [
+      36,
+      84
+    ],
+    "median_onset_gap_seconds": 0.533,
+    "programs": [
+      [
+        1,
+        48
+      ],
+      [
+        2,
+        77
+      ],
+      [
+        3,
+        32
+      ],
+      [
+        4,
+        22
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      540540
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_13": {
+    "duration_seconds": 182.85,
+    "note_count": 376,
+    "melodic_onsets_per_second": 2.06,
+    "median_note_seconds": 0.35,
+    "pitch_median": 60.0,
+    "pitch_range": [
+      24,
+      91
+    ],
+    "median_onset_gap_seconds": 0.717,
+    "programs": [
+      [
+        1,
+        105
+      ],
+      [
+        2,
+        22
+      ],
+      [
+        3,
+        85
+      ],
+      [
+        4,
+        74
+      ],
+      [
+        5,
+        85
+      ],
+      [
+        9,
+        0
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      714285
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_14": {
+    "duration_seconds": 168.64,
+    "note_count": 1110,
+    "melodic_onsets_per_second": 6.58,
+    "median_note_seconds": 0.2,
+    "pitch_median": 71.0,
+    "pitch_range": [
+      24,
+      87
+    ],
+    "median_onset_gap_seconds": 0.4,
+    "programs": [
+      [
+        1,
+        32
+      ],
+      [
+        2,
+        54
+      ],
+      [
+        3,
+        59
+      ],
+      [
+        4,
+        97
+      ],
+      [
+        7,
+        51
+      ],
+      [
+        8,
+        49
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      810810
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_15": {
+    "duration_seconds": 158.99,
+    "note_count": 789,
+    "melodic_onsets_per_second": 4.96,
+    "median_note_seconds": 0.158,
+    "pitch_median": 56,
+    "pitch_range": [
+      24,
+      79
+    ],
+    "median_onset_gap_seconds": 0.217,
+    "programs": [
+      [
+        1,
+        22
+      ],
+      [
+        2,
+        84
+      ],
+      [
+        3,
+        82
+      ],
+      [
+        4,
+        70
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      428571
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_16": {
+    "duration_seconds": 116.3,
+    "note_count": 656,
+    "melodic_onsets_per_second": 5.64,
+    "median_note_seconds": 0.225,
+    "pitch_median": 60.5,
+    "pitch_range": [
+      22,
+      90
+    ],
+    "median_onset_gap_seconds": 0.458,
+    "programs": [
+      [
+        1,
+        77
+      ],
+      [
+        2,
+        108
+      ],
+      [
+        3,
+        94
+      ],
+      [
+        4,
+        38
+      ],
+      [
+        5,
+        83
+      ],
+      [
+        6,
+        51
+      ],
+      [
+        7,
+        48
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      461538
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_17": {
+    "duration_seconds": 169.69,
+    "note_count": 1061,
+    "melodic_onsets_per_second": 6.25,
+    "median_note_seconds": 0.45,
+    "pitch_median": 67,
+    "pitch_range": [
+      24,
+      91
+    ],
+    "median_onset_gap_seconds": 0.308,
+    "programs": [
+      [
+        1,
+        24
+      ],
+      [
+        2,
+        25
+      ],
+      [
+        3,
+        53
+      ],
+      [
+        4,
+        55
+      ],
+      [
+        5,
+        49
+      ],
+      [
+        6,
+        49
+      ],
+      [
+        7,
+        51
+      ],
+      [
+        8,
+        92
+      ],
+      [
+        9,
+        1
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      606060
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_30": {
+    "duration_seconds": 36.99,
+    "note_count": 239,
+    "melodic_onsets_per_second": 6.46,
+    "median_note_seconds": 0.167,
+    "pitch_median": 62,
+    "pitch_range": [
+      43,
+      84
+    ],
+    "median_onset_gap_seconds": 0.333,
+    "programs": [
+      [
+        1,
+        117
+      ],
+      [
+        2,
+        86
+      ],
+      [
+        3,
+        86
+      ],
+      [
+        9,
+        120
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      333333
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  },
+  "uw2_31": {
+    "duration_seconds": 28.71,
+    "note_count": 288,
+    "melodic_onsets_per_second": 10.03,
+    "median_note_seconds": 0.167,
+    "pitch_median": 66.0,
+    "pitch_range": [
+      27,
+      101
+    ],
+    "median_onset_gap_seconds": 0.15,
+    "programs": [
+      [
+        1,
+        77
+      ],
+      [
+        2,
+        86
+      ],
+      [
+        3,
+        55
+      ],
+      [
+        4,
+        96
+      ],
+      [
+        5,
+        48
+      ],
+      [
+        6,
+        49
+      ]
+    ],
+    "tempo_meta_us_per_quarter": [
+      337078
+    ],
+    "interpretation": "Structure only. Timbre and emotion depend on rendering; not auditory listening."
+  }
+}

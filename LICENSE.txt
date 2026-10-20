@@ -1,0 +1,41 @@
+Arx Underworld Music — original code and documentation
+Copyright (c) 2026 Oscar and contributors
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Original generated placeholder WAVs
+---------------------------------
+The mathematical test pads created by score.py's placeholders command contain
+no third-party melody, recording, sample, SoundFont or ROM. They are offered
+under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+No attribution is required for those placeholders.
+
+Excluded third-party material
+-----------------------------
+This license does not cover Ultima Underworld music, arrangements, game data,
+instrument banks, Arx Fatalis game assets, or third-party tools and websites.
+Those remain under their respective rights and licenses. The release kit does
+not bundle them. Locally generated private payloads reference the owner's game
+assets and may contain their imported copyrighted recordings. Do not distribute
+those payloads as if this MIT/CC0 notice covered their contents.
+
+Arx Fatalis, Arx Libertatis, Ultima Underworld and their names/logos belong to
+their respective owners. This project is unofficial and is not endorsed by them.

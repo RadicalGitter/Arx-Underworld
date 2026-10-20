@@ -1,0 +1,502 @@
+[
+  {
+    "level": "level1",
+    "zone": "AMBIENCE_L1_Z1",
+    "ambiance": "ambient_gob_jail_main",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0007",
+      "light_door_0075"
+    ]
+  },
+  {
+    "level": "level1",
+    "zone": "AMBIENCE_L1_Z2",
+    "ambiance": "ambient_gob_jail_main",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0007",
+      "light_door_0075"
+    ]
+  },
+  {
+    "level": "level1",
+    "zone": "AMBIENCE_L1_Z3",
+    "ambiance": "ambient_gob_jail_main",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0007",
+      "light_door_0075"
+    ]
+  },
+  {
+    "level": "level1",
+    "zone": "AMBIENCE_L1_Z4",
+    "ambiance": "ambient_gob_jail_main",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0007",
+      "light_door_0075"
+    ]
+  },
+  {
+    "level": "level1",
+    "zone": "AMBIENCE_L1_Z5",
+    "ambiance": "ambient_cave_greu",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0007",
+      "light_door_0075"
+    ]
+  },
+  {
+    "level": "level1",
+    "zone": "AMBIENCE_L1_Z6",
+    "ambiance": "ambient_cave_greu",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0007",
+      "light_door_0075"
+    ]
+  },
+  {
+    "level": "level1",
+    "zone": "AMBIENCE_L1_Z7",
+    "ambiance": "ambient_cave_greu",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0007",
+      "light_door_0075"
+    ]
+  },
+  {
+    "level": "level1",
+    "zone": "AMBIENCE_L1_Z8",
+    "ambiance": "ambient_cave_frozen",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0007",
+      "light_door_0075"
+    ]
+  },
+  {
+    "level": "level12",
+    "zone": "AMBIENCE_L0_Z2",
+    "ambiance": "ambient_tavern",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0070",
+      "public_notice_0016"
+    ]
+  },
+  {
+    "level": "level12",
+    "zone": "AMBIENCE_L0_Z6",
+    "ambiance": "ambient_outpost",
+    "volume": 80.0,
+    "anchors": [
+      "public_notice_0070",
+      "public_notice_0016"
+    ]
+  },
+  {
+    "level": "level12",
+    "zone": "AMBIENCE_L0_Z7",
+    "ambiance": "ambient_outpost",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0070",
+      "public_notice_0016"
+    ]
+  },
+  {
+    "level": "level12",
+    "zone": "AMBIENCE_L0_Z8",
+    "ambiance": "ambient_outpost",
+    "volume": 80.0,
+    "anchors": [
+      "public_notice_0070",
+      "public_notice_0016"
+    ]
+  },
+  {
+    "level": "level16",
+    "zone": "GUARDING_ALIA",
+    "ambiance": "ambient_rebels_cool",
+    "volume": 100.0,
+    "anchors": [
+      "light_door_0015",
+      "light_door_0005"
+    ]
+  },
+  {
+    "level": "level16",
+    "zone": "AMBIENT_REBELS_COOL2",
+    "ambiance": "ambient_rebels_cool",
+    "volume": 100.0,
+    "anchors": [
+      "light_door_0015",
+      "light_door_0005"
+    ]
+  },
+  {
+    "level": "level16",
+    "zone": "AMBIENT_REBELS_INTENSE",
+    "ambiance": "ambient_rebels_intense",
+    "volume": 100.0,
+    "anchors": [
+      "light_door_0015",
+      "light_door_0005"
+    ]
+  },
+  {
+    "level": "level16",
+    "zone": "AMBIENT_REBELS_COOL3",
+    "ambiance": "ambient_rebels_cool",
+    "volume": 100.0,
+    "anchors": [
+      "light_door_0015",
+      "light_door_0005"
+    ]
+  },
+  {
+    "level": "level16",
+    "zone": "AMBIENT_REBELS_COOL4",
+    "ambiance": "ambient_rebels_cool",
+    "volume": 100.0,
+    "anchors": [
+      "light_door_0015",
+      "light_door_0005"
+    ]
+  },
+  {
+    "level": "level2",
+    "zone": "FIRETORCH",
+    "ambiance": "ambient_gob_castle",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0024",
+      "public_notice_0071"
+    ]
+  },
+  {
+    "level": "level2",
+    "zone": "NEWPATH0010",
+    "ambiance": "ambient_cave_a",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0024",
+      "public_notice_0071"
+    ]
+  },
+  {
+    "level": "level2",
+    "zone": "NEWPATH0009",
+    "ambiance": "ambient_cave_a",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0024",
+      "public_notice_0071"
+    ]
+  },
+  {
+    "level": "level2",
+    "zone": "NPCLIMIT_0002",
+    "ambiance": "ambient_cave_a",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0024",
+      "public_notice_0071"
+    ]
+  },
+  {
+    "level": "level3",
+    "zone": "AMBIENT_REBELS_COOL",
+    "ambiance": "ambient_rebels_cool",
+    "volume": 100.0,
+    "anchors": [
+      "light_door_0148",
+      "light_door_0013"
+    ]
+  },
+  {
+    "level": "level3",
+    "zone": "AMBIENT_BUNKER",
+    "ambiance": "ambient_bunker",
+    "volume": 100.0,
+    "anchors": [
+      "light_door_0148",
+      "light_door_0013"
+    ]
+  },
+  {
+    "level": "level3",
+    "zone": "AMBIENT_REBELS_COOL3",
+    "ambiance": "ambient_rebels_cool",
+    "volume": 100.0,
+    "anchors": [
+      "light_door_0148",
+      "light_door_0013"
+    ]
+  },
+  {
+    "level": "level4",
+    "zone": "ISERBIUS_FINAL",
+    "ambiance": "ambient_bunker_akbaa",
+    "volume": 100.0,
+    "anchors": [
+      "light_door_0035",
+      "light_door_0036"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "NEWPATH0001",
+    "ambiance": "ambient_snake_castle",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "ENTER",
+    "ambiance": "ambient_snake_castle",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "GETOUT",
+    "ambiance": "ambient_snake_castle",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "NEWPATH0005",
+    "ambiance": "ambient_snake_castle",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "NEWPATH0006",
+    "ambiance": "ambient_snake_castle",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "NEWPATH0007",
+    "ambiance": "ambient_snake_castle",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "MAPMARKER",
+    "ambiance": "ambient_snake_illusion",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "NEWPATH0009",
+    "ambiance": "ambient_snake_illusion",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "NEWPATH0010",
+    "ambiance": "ambient_cave_greu",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "NEWPATH0011",
+    "ambiance": "ambient_cave_greu",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "NEWPATH0012",
+    "ambiance": "ambient_cave_greu",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level5",
+    "zone": "NEWPATH0013",
+    "ambiance": "ambient_cave_greu",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0048",
+      "public_notice_0049"
+    ]
+  },
+  {
+    "level": "level6",
+    "zone": "AMBIENT_CAVE_A1",
+    "ambiance": "ambient_cave_a",
+    "volume": 100.0,
+    "anchors": [
+      "marker_0255",
+      "marker_0256"
+    ]
+  },
+  {
+    "level": "level6",
+    "zone": "AMBIENT_CAVE_A2",
+    "ambiance": "ambient_cave_a",
+    "volume": 100.0,
+    "anchors": [
+      "marker_0255",
+      "marker_0256"
+    ]
+  },
+  {
+    "level": "level6",
+    "zone": "AMBIENT_CAVE_A4",
+    "ambiance": "ambient_cave_a",
+    "volume": 100.0,
+    "anchors": [
+      "marker_0255",
+      "marker_0256"
+    ]
+  },
+  {
+    "level": "level6",
+    "zone": "AMBIENT_CAVE_WORM",
+    "ambiance": "ambient_cave_worm",
+    "volume": 100.0,
+    "anchors": [
+      "marker_0255",
+      "marker_0256"
+    ]
+  },
+  {
+    "level": "level6",
+    "zone": "AMBIENT_CAVE_WORM2",
+    "ambiance": "ambient_cave_worm",
+    "volume": 100.0,
+    "anchors": [
+      "marker_0255",
+      "marker_0256"
+    ]
+  },
+  {
+    "level": "level7",
+    "zone": "NEWPATH0001",
+    "ambiance": "ambient_cave_lava",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0014",
+      "public_notice_0065"
+    ]
+  },
+  {
+    "level": "level7",
+    "zone": "NEWPATH0002",
+    "ambiance": "ambient_cave_lava",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0014",
+      "public_notice_0065"
+    ]
+  },
+  {
+    "level": "level7",
+    "zone": "NEWPATH0003",
+    "ambiance": "ambient_cave_lava",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0014",
+      "public_notice_0065"
+    ]
+  },
+  {
+    "level": "level7",
+    "zone": "NEWPATH0004",
+    "ambiance": "ambient_cave_lava",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0014",
+      "public_notice_0065"
+    ]
+  },
+  {
+    "level": "level7",
+    "zone": "NEWPATH0005",
+    "ambiance": "ambient_dwarf",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0014",
+      "public_notice_0065"
+    ]
+  },
+  {
+    "level": "level7",
+    "zone": "NEWPATH0006",
+    "ambiance": "ambient_dwarf",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0014",
+      "public_notice_0065"
+    ]
+  },
+  {
+    "level": "level7",
+    "zone": "NEWPATH0007",
+    "ambiance": "ambient_dwarf",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0014",
+      "public_notice_0065"
+    ]
+  },
+  {
+    "level": "level7",
+    "zone": "NEWPATH0008",
+    "ambiance": "ambient_cave_lava",
+    "volume": 100.0,
+    "anchors": [
+      "public_notice_0014",
+      "public_notice_0065"
+    ]
+  }
+]

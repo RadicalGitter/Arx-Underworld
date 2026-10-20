@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "low_health_fraction": 0.3,
+  "recovery_health_fraction": 0.4,
+  "music_router": true,
+  "threat_radius": 2200,
+  "quiet_seconds": 6,
+  "armed_quiet_seconds": 10,
+  "minimum_battle_seconds": 3,
+  "region_fallbacks": [
+    {
+      "ambiance": "ambient_town",
+      "anchors": ["public_notice_0002", "public_notice_0010"]
+    }
+  ]
+}

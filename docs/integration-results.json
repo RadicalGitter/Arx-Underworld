@@ -1,0 +1,60 @@
+{
+  "test": {
+    "cues": 39,
+    "files": 206,
+    "tracks": 18,
+    "environment_records_preserved": 84,
+    "musical_bed_records_anchored": 17,
+    "script_patches": 88,
+    "original_timer_offsets": "all preserved",
+    "bytes": 69140432
+  },
+  "uw": {
+    "cues": 39,
+    "files": 206,
+    "tracks": 18,
+    "environment_records_preserved": 84,
+    "musical_bed_records_anchored": 17,
+    "script_patches": 88,
+    "original_timer_offsets": "all preserved",
+    "bytes": 296340563
+  },
+  "routing": {
+    "npc_classes": 32,
+    "classes_with_death_observer": 31,
+    "death_observer_gaps": [
+      "graph/obj3d/interactive/npc/flying_creature/flying_creature.asl"
+    ],
+    "fixed_width_audio_and_bootstrap_slots": 132,
+    "zone_routes": 50,
+    "npc_health_used": false,
+    "new_timers": false
+  },
+  "extended": {
+    "files": 1072,
+    "intentional_script_path_overlaps": 12,
+    "environment_records_preserved": true,
+    "original_scripts_reconstructed": true
+  },
+  "live_install": {
+    "version": "0.2.0",
+    "status": "installed-and-file-verified",
+    "payload_files": 206,
+    "cues": 39,
+    "tracks": 18,
+    "music": "exclusive dedicated AMBs; original environment and heartbeat preserved",
+    "combat": "nearby hostile intent; six quiet seconds / ten with weapon raised",
+    "health": "player only, <=30% danger / >=40% recovery",
+    "victory": "UW1 Victory once after engaged death plus quiet local encounter; new threats interrupt",
+    "script_paths": 88,
+    "existing_script_paths_patched": 12,
+    "protected_files_unchanged": 648,
+    "original_timer_offsets": "preserved",
+    "npc_health_used": false,
+    "new_timers": false,
+    "menu": "UW1 main theme unchanged",
+    "music_boost_db": 6.020599913279624,
+    "native_runtime": "not tested; no game launched",
+    "limits": "local heuristic; rare deaths/instant kills may miss fanfare; no crossfade or saved playhead"
+  }
+}

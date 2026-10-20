@@ -1,0 +1,797 @@
+{
+  "ambient_blackthing.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_blackthing.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_bunker.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_bunker.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_bunker_akbaa.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_crypt2l.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_castle.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_outpost.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_cave_a.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/fx_addon/ratsfootsteps.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip7.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip2.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip1.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip3.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_cave_a.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_cave_b.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_cave_b.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/ratsfootsteps.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip7.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip2.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip1.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip3.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_cave_a.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_cave_frozen.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_cave_frozen.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_cave_greu.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_cave_greu.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_cave_greu.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_cave_lava.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_cave_lava.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_cave_worm.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/fx_addon/ratsfootsteps.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip7.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip2.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip1.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip3.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_cave_worm.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_credits.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/credits_arx.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_crypt_a.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_crypt1l.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_crypt_b.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/strange_noise15.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise10c.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise10b.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise10a.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise14.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise12.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_crypt5l.wav",
+        "flags": 4,
+        "keys": 2
+      }
+    ]
+  },
+  "ambient_crypt_c.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/strange_noise10c.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise13.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise9.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_crypt2l.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_crypt_d.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/strange_noise8.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise5.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_crypt3l.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_crypt_e.amb": {
+    "version": "0x1000002",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_crypt6l.wav",
+        "flags": 12,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_crypt_f.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/strange_noise10a.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise4.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise3.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise12.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/strange_noise8.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_crypt6l.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_crypt_lich.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_stress_lich.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_dramatic.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/dramatic.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_dwarf.amb": {
+    "version": "0x1000002",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_dwarfs.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_fight.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/player_heartb.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_fight_music.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_fighting2.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_gob_castle.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_troll.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_gob_intro.amb": {
+    "version": "0x1000001",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_goblin-music.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_gob_jail_main.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/fx_addon/scream5.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/scream3.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/scream2.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/scream1.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/ratsfootsteps.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip7.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip2.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip1.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip3.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/door4.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/door5.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/door3.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/door2.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/cry.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/caugh.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_goblin_main.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_gob_jail_stress.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_goblin_stress.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_gob_ruin.amb": {
+    "version": "0x1000002",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_cave_a.wav",
+        "flags": 4,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip3.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip1.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip2.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/drip7.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/ratsfootsteps.wav",
+        "flags": 1,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_important_place.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/arx-important_place.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_intro.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/music_intro.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_intro_a.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_crypt3l.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_intro_b.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_cave_worm.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_menu.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_crypt6l.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_noden.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_noden.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_outpost.amb": {
+    "version": "0x1000002",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_outpost.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_rebels_cool.amb": {
+    "version": "0x1000002",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_rebels_cool.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_rebels_intense.amb": {
+    "version": "0x1000002",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_rebels_tense.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_snake_castle.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_snake_castle.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_snake_illusion.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_snake_temple.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_tavern.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/fx_addon/tavern_spoonagainstbowl.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/tavern_plateonbench2.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/tavern_plateonbench.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/fx_addon/tavern_pickupmug.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_tavern.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_temple_akbaa.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_akbaa_temple.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_temple_akbaa_up.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_akbaa_temple_upgrade.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_town.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/wheel_metal.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/door_wrong_key.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/door_unlock.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/cooking.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/bottle_fill.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/anvil_hit.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/pig_idle1.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/pig_idle3.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/dog_idle3.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_rebels_cool.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "ambient_troll.amb": {
+    "version": "0x1000002",
+    "tracks": [
+      {
+        "path": "sfx/ambiance/loop_troll.wav",
+        "flags": 4,
+        "keys": 1
+      }
+    ]
+  },
+  "reverb_test.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "speech/english/kultar_explain.wav",
+        "flags": 1,
+        "keys": 1
+      },
+      {
+        "path": "sfx/_test_reverb.wav",
+        "flags": 5,
+        "keys": 2
+      }
+    ]
+  },
+  "stress.amb": {
+    "version": "0x1000003",
+    "tracks": [
+      {
+        "path": "sfx/player_heartb.wav",
+        "flags": 4,
+        "keys": 1
+      },
+      {
+        "path": "sfx/player_death.wav",
+        "flags": 0,
+        "keys": 1
+      },
+      {
+        "path": "sfx/ambiance/loop_cave_a.wav",
+        "flags": 1,
+        "keys": 1
+      }
+    ]
+  }
+}
